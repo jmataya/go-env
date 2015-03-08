@@ -28,7 +28,7 @@ func main() {
 }
 ```
 
-See the [examples](https://github.com/jpfuentes2/go-env/tree/master/examples) folder.
+See the [examples](tree/master/examples) folder.
 
 ### Multiple Application Environments
 
